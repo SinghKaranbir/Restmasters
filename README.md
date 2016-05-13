@@ -1,4 +1,5 @@
-**Team: Restmasters**  									**Project: Attendance Monitor**                      
+**Team: Restmasters**  									
+**Project: Attendance Monitor**                      
 
 
 *A Brief Description*: A P.O.C for automation of attendances leveraging I.O.T technology, Distributed Systems Concepts and Mobile Platform- Android. 
