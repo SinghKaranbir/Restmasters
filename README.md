@@ -1,5 +1,7 @@
+##Project: Attendance Monitor
+
 **Team: Restmasters**  									
-**Project: Attendance Monitor**                      
+                 
 
 
 *A Brief Description*: A P.O.C for automation of attendances leveraging I.O.T technology, Distributed Systems Concepts and Mobile Platform- Android. 
@@ -13,7 +15,7 @@
 
 
 
-**Underlying Architecture of Attendance Monitor**
+###Underlying Architecture of Attendance Monitor
 
 ![architecture](https://cloud.githubusercontent.com/assets/14814822/15241410/98862eea-18a4-11e6-92c5-f751cffc1f73.png)
 
