@@ -15,7 +15,7 @@
 
 **Underlying Architecture of Attendance Monitor**
 
-![alt text](Restmasters/image/Architecture.png)
+![architecture](https://cloud.githubusercontent.com/assets/14814822/15241410/98862eea-18a4-11e6-92c5-f751cffc1f73.png)
 
 
 
