@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "32943301228",
+    "project_id": "attendance-da6a0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32943301228:android:0a7e6f0b24583c4e",
+        "android_client_info": {
+          "package_name": "com.spartan.karanbir.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLddgafq5BLlqXxx_AN0-jgqDNF1f4d-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
