@@ -15,4 +15,7 @@
 
 **Underlying Architecture of Attendance Monitor**
 
-!(https://github.com/SinghKaranbir/Restmasters/blob/master/image/Architecture.png)
+
+!(https://github.com/SinghKaranbir/Restmasters/blob/master/image/Architecture)
+!(https://github.com/SinghKaranbir/Restmasters/blob/master/image/Architecture.png
+
