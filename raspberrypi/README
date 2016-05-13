@@ -1,0 +1,13 @@
+
+1. Log into raspberry pi. Open three terminals.
+2. In terminal1 execute below command
+	sudo python blueagent5.py
+3. In terminal2 execute below command
+	./connectbluetooth.sh
+4. In terminal3 execute below command
+	python CallAWS.py
+5. Now android phone can connect to raspberry pi to send data in emailid~courseid~ format
+
+References:
+
+1. https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=87138&p=752712
